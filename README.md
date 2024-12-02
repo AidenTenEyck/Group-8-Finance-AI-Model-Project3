@@ -31,6 +31,5 @@ Our model in addition to being able to answer a wide variety of finance related 
 
 **Files:**
 
-  1. try_comb4_ai.ipynb
-  
--Contains all code for AI language model
+  1. try_comb4_ai.ipynb                  
+      -Contains all code for AI language model
